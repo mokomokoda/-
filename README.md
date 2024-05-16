@@ -290,7 +290,7 @@ import shutil
 
 source_file = "vgg16_weights_tf_dim_ordering_tf_kernels.h5"
 
-destination_directory = "‪Users\\phantom\\AppData\\Roaming\\.anaconda\\navigator\\scripts\py36\\app.bat"
+destination_directory = "‪c:Users\\phantom\\AppData\\Roaming\\.anaconda\\navigator\\scripts\py36\\app.bat"
 
 shutil.move(source_file, destination_directory)
 import urllib.request
